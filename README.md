@@ -202,7 +202,7 @@ Disease-Prediction-Classification/
 │── Disease_Prediction.ipynb
 │── README.md
 │── requirements.txt
-
+│── .gitignore
 ├── data/
 │   └── diabetes.csv
 
